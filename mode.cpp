@@ -10,7 +10,9 @@ struct list
 };
  
 // Function to insert data into linked list.
+
 list* insertinlist(list *head, int n)
+	
 {
 	// Creating newnode and temp node.
 	list *newnode = new list;
