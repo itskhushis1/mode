@@ -74,6 +74,7 @@ list* insertinlist(list *head, int n)
 }	
  
 int main()
+	
 {
     int n, i, num, max = 0, c;
     // Declaring head of the linked list.
