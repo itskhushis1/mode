@@ -16,6 +16,7 @@ list* insertinlist(list *head, int n)
 {
 	// Creating newnode and temp node.
 	list *newnode = new list;
+	
 	list *temp = new list;
  
 	// Using newnode as the node to be inserted in the list.
