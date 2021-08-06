@@ -1,5 +1,6 @@
 #include <iostream>
  using namespace std;
+
  
 // A structure to represent a node.
 struct list
